@@ -1,0 +1,9 @@
+Red Hat Packaging files
+======================
+
+This is the Red Hat packaging setup for Varnish.
+
+See the different branches for different releases. Each branch would
+usually be cloned into redhat/ on a source release directory.
+
+
